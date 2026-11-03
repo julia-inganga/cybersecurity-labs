@@ -16,3 +16,4 @@ Install Kali Linux in VirtualBox and configure virtual networking.
 
 ## What I Learned
 I learned how to install and configure a Kali Linux virtual machine and establish network connectivity using static IP addressing and DNS.
+
