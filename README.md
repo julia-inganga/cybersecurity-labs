@@ -27,3 +27,7 @@ Security monitoring, incident response foundations, then digital forensics.
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/julia-inganga) • [Email] ingangajuliet@gmail.com
+
+## Screenshot Evidence
+
+![Kali Linux running in VirtualBox](kali-setup.png)
