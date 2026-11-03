@@ -15,3 +15,7 @@ Capture and analyse TCP traffic using Wireshark.
 
 ## What I Learned
 I learned how TCP establishes connections through the SYN, SYN-ACK and ACK packet exchange.
+
+## Screenshot Evidence
+
+![TCP three-way handshake](tcp-handshake.png)
